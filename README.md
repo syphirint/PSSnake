@@ -12,9 +12,9 @@ Just wanted to create a snake game without any fancy graphic modes. Just ASCII* 
 
 ![image1](Images/StartGameScreen.PNG?raw=true "Start Game Screen")
 
-![image2](https://raw.githubusercontent.com/syphirint/PSSnake/blob/master/Images/Gameplay.PNG)
+![image2](https://raw.githubusercontent.com/syphirint/PSSnake/master/Images/Gameplay.PNG)
 
-![image3](https://raw.githubusercontent.com/syphirint/PSSnake/blob/master/Images/GameOverScreen.PNG)
+![image3](https://raw.githubusercontent.com/syphirint/PSSnake/master/Images/GameOverScreen.PNG)
 
 ## Installation
 
