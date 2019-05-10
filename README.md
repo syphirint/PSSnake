@@ -1,6 +1,43 @@
-## PSSnake
-A snake game implemented in Powershell.
+# PSSnake
 
-If you are looking for a functional version of the famous game "Snake" implemented using Powershell, maybe you are in the right place.
+A snake game implemented in Powershell without using fancy graphic modes.
 
-Just download the file and run it.
+## Description
+
+Just wanted to create a snake game without any fancy graphic modes. Just ASCII* characters.
+
+*Extended ASCII
+
+## Visuals
+
+
+
+## Installation
+
+Well, not exactly "installation".
+
+### You can:
+
+Clone the repository with:
+```bash
+$ git clone https://github.com/syphirint/PSSnake
+```
+### Or
+Just download the `PSSnake.ps1` alone.
+### Or
+Create a file in your system and `Ctrl-C`-`Ctrl-V` the code.
+
+**Your choice.**
+
+## Usage
+
+For best experience use a Command Prompt (`cmd`) window and not Powershell console.
+
+```
+> powershell          # invoke powershell within cmd
+> cd .\Desktop        # assuming that the file is on your Desktop
+> .\PSSnake.ps1       # run the game
+```
+
+## License
+[GPL-3.0](https://www.gnu.org/licenses/)
