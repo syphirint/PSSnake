@@ -1,6 +1,6 @@
 # PSSnake
 
-A snake game implemented in Powershell without using fancy graphic modes.
+A snake game implemented (although neither well nor efficiently) in Powershell without using fancy graphic modes.
 
 ## Description
 
