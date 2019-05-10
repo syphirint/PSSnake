@@ -12,7 +12,7 @@ Just wanted to create a snake game without any fancy graphic modes. Just ASCII* 
 
 ![StartGameScreen](https://github.com/syphirint/PSSnake/blob/master/Images/StartGameScreen.PNG?raw=true)
 
-![Gameplay](https://github.com/syphirint/PSSnake/blob/master/Images/Gameplay.PNG?raw=true)
+![Gameplay](https://raw.githubusercontent.com/syphirint/PSSnake/master/Images/Gameplay.PNG?_sm_au_=iVVtr20r2VvTR1Ds)
 
 ![GameOverScreen](https://github.com/syphirint/PSSnake/blob/master/Images/GameOverScreen.png?raw=true)
 
