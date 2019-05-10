@@ -9,14 +9,12 @@ Just wanted to create a snake game without any fancy graphic modes. Just ASCII* 
 *Extended ASCII
 
 ## Visuals
-<p>
-    <img src="Images/StartGameScreen.png" width="640" height="303" />
-</p>
-![StartGameScreen](/Images/StartGameScreen.png)
 
-![Gameplay](https://raw.githubusercontent.com/syphirint/PSSnake/master/Images/Gameplay.png)
+![StartGameScreen](https://github.com/syphirint/PSSnake/blob/master/Images/StartGameScreen.PNG?raw=true)
 
-![GameOverScreen](https://raw.githubusercontent.com/syphirint/PSSnake/master/Images/GameOverScreen.png)
+![Gameplay](https://github.com/syphirint/PSSnake/blob/master/Images/Gameplay.PNG?raw=true)
+
+![GameOverScreen](https://github.com/syphirint/PSSnake/blob/master/Images/GameOverScreen.png?raw=true)
 
 ## Installation
 
