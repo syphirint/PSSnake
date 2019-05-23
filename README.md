@@ -1,6 +1,6 @@
 # PSSnake
 
-A snake game implemented (although neither well nor efficiently) in Powershell without using fancy graphic modes.
+A snake game implemented in Powershell without graphic mode.
 
 ## Description
 
@@ -30,15 +30,22 @@ $ git clone https://github.com/syphirint/PSSnake
 Just download the `PSSnake.ps1` alone.
 ### Or
 Create a file in your system and `Ctrl-C`-`Ctrl-V` the code.
+Be careful when copying the code, as it needs to be encoded in UCS-2 BE BOM. Otherwise, the visuals might be compromised.
 
 **Your choice.**
 
 ## Usage
 
-For best experience use a Command Prompt (`cmd`) window and not Powershell console.
+Use Command Prompt (`cmd`) or Powershell Console.
 
+### Command Prompt
 ```
 > powershell          # invoke powershell within cmd
+> cd .\Desktop        # assuming that the file is on your Desktop
+> .\PSSnake.ps1       # run the game
+```
+### Powershell Console
+```
 > cd .\Desktop        # assuming that the file is on your Desktop
 > .\PSSnake.ps1       # run the game
 ```
